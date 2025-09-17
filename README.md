@@ -46,7 +46,7 @@ I'm Somasundharam from Madurai, Tamil Nadu, India.👨‍💻<br><br>🔭 I’m 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=mysql&logoColor=white) 
 
 #### Design Tools:
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat&logo=AdobePremierePro&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20PhotoShop-%2331A8FF.svg?style=flat&logo=adobephotoshop&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat&logo=AdobeXD&logoColor=#FF61F6) ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) 
+![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-FF00AD.svg?style=flat&logo=DaVinciResolve&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9006BA.svg?style=flat&logo=Adobe%20PremierePro&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20PhotoShop-2607B0.svg?style=flat&logo=adobephotoshop&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF00EA?style=flat&logo=AdobeXD&logoColor=#FF61F6) ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) 
 
 #### Version Control:
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white) 
