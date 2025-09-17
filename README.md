@@ -59,8 +59,9 @@ I'm Somasundharam from Madurai, Tamil Nadu, India.👨‍💻<br><br>🔭 I’m 
 
 ## 📊 My GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=somuberlin&theme=dark&hide_border=true&include_all_commits=true&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=somuberlin&theme=dark&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=somuberlin&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+<img align="center" src="https://nirzak-streak-stats.vercel.app/?user=somuberlin&theme=dark&hide_border=true"/>
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=somuberlin&theme=radical&no-frame=true&no-bg=true&margin-w=4)
